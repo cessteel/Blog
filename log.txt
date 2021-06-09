@@ -1,0 +1,17 @@
+commit 761edd83b628e15985c82b4e61973f01345513c2
+Author: Christian Acero <christian@live.com>
+Date:   Wed Jun 9 17:42:09 2021 -0500
+
+    Cambio en la edad
+
+diff --git a/historia.txt b/historia.txt
+index 4c8ea53..38d2eb8 100644
+--- a/historia.txt
++++ b/historia.txt
+@@ -1 +1,3 @@
+-esta es la historia de Chritian 
+\ No newline at end of file
++esta es la historia de Chritian 
++
++Tengo 30 años.
+\ No newline at end of file
